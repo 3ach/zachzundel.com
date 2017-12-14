@@ -62,41 +62,57 @@
     <g
        aria-label="Z"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:186.7033844px;line-height:1.25;font-family:C059;-inkscape-font-specification:'C059 Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.66758442"
-       id="text4532">
+       id="text4532"
+       transform="translate(-3.4017857,-4.5357143)">
       <path
          d="M 50.197196,125.24297 H 164.60772 v 21.24115 l -73.022176,88.33769 h 75.118936 v 26.52865 H 48.10043 V 240.10931 L 121.1226,151.77162 H 50.197196 Z"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'B&amp;H LucidaBright';-inkscape-font-specification:'B&amp;H LucidaBright Bold';fill:#ffffff;stroke-width:4.66758442"
-         id="path4623" />
+         id="path4623"
+         inkscape:connector-curvature="0" />
     </g>
     <rect
        style="fill:#e85600;fill-opacity:1;stroke-width:0.20151427"
        id="rect4534-1"
        width="121.70834"
        height="26.749214"
-       x="46.053638"
-       y="213.06084" />
+       x="42.651852"
+       y="208.52512" />
     <rect
        style="fill:#e85600;fill-opacity:1;stroke-width:0.20151427"
        id="rect4534-1-2"
        width="121.70834"
        height="26.749218"
-       x="48.191795"
-       y="145.77887" />
+       x="44.790009"
+       y="141.24315" />
     <rect
        style="fill:#e85600;fill-opacity:1;stroke-width:0.20151427"
        id="rect4534-1-2-4"
        width="121.70834"
        height="26.74922"
-       x="-128.27631"
-       y="162.18359"
+       x="-126.88969"
+       y="156.68613"
        transform="rotate(-51.026263)" />
     <rect
        style="fill:#e85600;fill-opacity:1;stroke-width:0.20151427"
        id="rect4534-1-2-4-7"
        width="121.70834"
        height="26.74922"
-       x="-160.05342"
-       y="218.88101"
+       x="-158.66681"
+       y="213.38354"
        transform="rotate(-51.026263)" />
+    <rect
+       style="fill:#e85600;fill-opacity:1;stroke-width:0.26458332"
+       id="rect4678"
+       width="47.247025"
+       height="31.75"
+       x="119.81845"
+       y="117.08334" />
+    <rect
+       style="fill:#e85600;fill-opacity:1;stroke-width:0.33535123"
+       id="rect4682"
+       width="49.196362"
+       height="39.047092"
+       x="42.651848"
+       y="220.00409" />
   </g>
 </svg>

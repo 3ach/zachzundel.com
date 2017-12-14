@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title> {{.Doc.title}}</title>
+        <link rel="stylesheet" href="css/spectre.min.css">
+        <link rel="stylesheet" href="css/spectre-exp.min.css">
+        <link rel="stylesheet" href="css/spectre-icons.min.css">
+    </head>
+    <body>
+        <div class="container grid-lg">
+            <br>
+            </header>
+            <div class="columns">
+                <div class="column col-11 col-mx-auto">
+            <header class="navbar">
+                <section class="navbar-section">
+                    <a href="#" class="btn btn-link" style="padding-left: 0" disabled>R&eacute;sum&eacute;</a>
+                    <a href="https://github.com/zachzundel" class="btn btn-link">Code</a>
+                </section>
+                <section class="navbar-center">
+                    <h5 style="margin: 0"> Zach Zundel </h5>
+                </section>
+                <section class="navbar-section">
+                    <a href="#" class="btn btn-link" disabled>Blog</a>
+                    <a href="https://twitter.com/franklyrosalind" style="padding-right: 0" class="btn btn-link">Twitter</a>
+                </section>
+                </div>
+                <div class="column col-11 col-mx-auto">
+                    {{.Doc.body}} 
+                </div>
+                <div class="column col-11 col-mx-auto">
+                    <div class="divider"></div>
+                    <div class="text-center" style="font-size: 12px">This site was built by hand with <a href="https://picturepan2.github.io/spectre">Spectre.css</a> and is proudly free of JavaScript.</div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
