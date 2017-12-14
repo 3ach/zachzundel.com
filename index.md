@@ -1,1 +1,4 @@
-Final revision.
+---
+title: Home
+sitename: Zach Zundel
+---
