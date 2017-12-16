@@ -10,19 +10,31 @@
             <br>
             </header>
             <div class="columns">
-                <div class="column col-11 col-mx-auto">
-            <header class="navbar">
-                <section class="navbar-section">
-                    <a href="#" class="btn btn-link" style="padding-left: 0" disabled>R&eacute;sum&eacute;</a>
-                    <a href="https://github.com/zachzundel" class="btn btn-link">Code</a>
-                </section>
-                <section class="navbar-center">
-                    <img src="img/avatar.png" class="circle" width="48px" />
-                </section>
-                <section class="navbar-section">
-                    <a href="#" class="btn btn-link" disabled>Blog</a>
-                    <a href="https://twitter.com/franklyrosalind" style="padding-right: 0" class="btn btn-link">Twitter</a>
-                </section>
+                <div class="column col-5 col-mx-auto show-xs">
+                            <a href="#" class="btn btn-link" style="padding-left: 0" disabled>R&eacute;sum&eacute;</a>
+                            <a href="https://github.com/zachzundel" style="padding-right: 0" class="btn btn-link">Code</a>
+                </div>
+                <div class="column col-2 col-mx-auto show-xs">
+                    <img src="img/avatar.png" class="circle centered" width="48px"/>
+                </div>
+                <div class="column col-5 col-mx-auto show-xs">
+                            <a href="#" class="btn btn-link float-right" style="padding-right: 0" disabled>Blog</a>
+                            <a href="https://twitter.com/franklyrosalind" style="padding-left: 0" class="btn btn-link float-right">Twitter</a>
+                </div>
+                <div class="column col-11 col-mx-auto hide-xs">
+                    <header class="navbar">
+                        <section class="navbar-section">
+                            <a href="#" class="btn btn-link" style="padding-left: 0" disabled>R&eacute;sum&eacute;</a>
+                            <a href="https://github.com/zachzundel" class="btn btn-link">Code</a>
+                        </section>
+                        <section class="navbar-center">
+                            <img src="img/avatar.png" class="circle" width="48px" />
+                        </section>
+                        <section class="navbar-section">
+                            <a href="#" class="btn btn-link" disabled>Blog</a>
+                            <a href="https://twitter.com/franklyrosalind" style="padding-right: 0" class="btn btn-link">Twitter</a>
+                        </section>
+                    </header>
                 </div>
                 <div class="column col-11 col-mx-auto">
                     {{.Doc.body}} 
